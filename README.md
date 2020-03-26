@@ -1,5 +1,4 @@
-# logo
-Logo design for EA7RCT
+![EA7RCT](EA7RCT.png)
 
 
 # Requisitos para propuesta
@@ -18,3 +17,5 @@ Logo design for EA7RCT
 - [ ] Añadimos 5 flechas en algún sitio? Las flechas tradicionalmente (en la UMA) indican el nivel de ingeniería y van asociado a campos magnéticos.
 
 
+# Acerca de este repositorio
+En la raiz del repositorio se encuentra el fichero [EA7RCT.png](EA7RCT.png). Esta figura muestra siempre la versión más reciente del logo conforme el diseño/trabajo avanza.
