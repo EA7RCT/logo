@@ -60,11 +60,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710682"
-     inkscape:cx="120.26157"
-     inkscape:cy="323.51405"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="256.9379"
+     inkscape:cy="139.1944"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer20"
+     inkscape:current-layer="layer12"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1025"
@@ -102,12 +102,14 @@
      id="layer4"
      inkscape:label="Background"
      transform="translate(-1.4159544,-2.0157859)"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <g
        inkscape:groupmode="layer"
        id="layer19"
        inkscape:label="Botanico"
-       style="display:inline">
+       style="display:inline"
+       sodipodi:insensitive="true">
       <image
          style="display:inline"
          y="33.004089"
@@ -122,7 +124,8 @@
        inkscape:groupmode="layer"
        id="layer20"
        inkscape:label="Teleco"
-       style="display:none">
+       style="display:none"
+       sodipodi:insensitive="true">
       <path
          style="display:inline;fill:#399eff;fill-opacity:1;stroke:none;stroke-width:0.05673988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 8.8996409,64.29297 7.5605901,-0.964576 v -0.524846 l 6.85134,-0.879467 v -1.007135 l 4.908,-1.815674 4.69522,0.453917 v -1.319201 l 1.07806,-0.397179 v -1.219907 l 14.36937,-2.31215 6.69531,2.1703 V 59.3566 l 44.852872,-5.759096 -0.25532,26.91652 H 8.8712709 Z"
@@ -762,15 +765,15 @@
            style="display:inline;fill:none;fill-opacity:0.07843137;stroke:none;stroke-width:1.70924091;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="path6298-1-6"
            sodipodi:type="arc"
-           sodipodi:cx="72.811554"
-           sodipodi:cy="-28.767294"
+           sodipodi:cx="74.11161"
+           sodipodi:cy="-25.229925"
            sodipodi:rx="49.006126"
            sodipodi:ry="49.006126"
            sodipodi:start="3.162013"
            sodipodi:end="3.1415927"
            sodipodi:open="true"
-           d="M 23.815645,-29.767946 A 49.006126,49.006126 0 0 1 73.562067,-77.767673 49.006126,49.006126 0 0 1 121.81513,-28.26694 49.006126,49.006126 0 0 1 72.561373,20.238194 49.006126,49.006126 0 0 1 23.805428,-28.767296"
-           transform="matrix(0.91529854,0.4027761,0.4027761,-0.91529854,0,0)" />
+           d="M 25.115701,-26.230578 A 49.006126,49.006126 0 0 1 74.862123,-74.230304 49.006126,49.006126 0 0 1 123.11518,-24.729572 49.006126,49.006126 0 0 1 73.861429,23.775563 49.006126,49.006126 0 0 1 25.105484,-25.229927"
+           transform="matrix(0.89485451,0.44635793,0.44635793,-0.89485451,0,0)" />
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -778,7 +781,7 @@
              xlink:href="#path6298-1-6"
              id="textPath921"><tspan
    style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.58333302px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
-   id="tspan917">E.T.S.I TELECOMUNICACIONES MÁLAGA</tspan></textPath></text>
+   id="tspan917">E.T.S.I. TELECOMUNICACIONES MÁLAGA</tspan></textPath></text>
       </g>
       <g
          inkscape:groupmode="layer"
