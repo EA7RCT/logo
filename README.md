@@ -6,7 +6,7 @@
 - [X] Debemos tener los derechos de uso para todos los elementos no "dibujados a mano". No podemos permitirnos un problema como el que sucedión con la Paloma de Picasso en el logo de la UMA.
 - [X] Satélite en el cielo.
 - [X] Callsign fácil de leer.
-- [ ] Un formato fácil de imprimir en blanco/negro, o dos versiones, una para imprenta y otra para digital (por ejemplo, en la digital mostrar un fondo de color, pero omitirlo en la imprenta).
+- [X] Un formato fácil de imprimir en blanco/negro, o dos versiones, una para imprenta y otra para digital (por ejemplo, en la digital mostrar un fondo de color, pero omitirlo en la imprenta).
 
 
 
